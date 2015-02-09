@@ -15,7 +15,7 @@ public class MainActivity extends ActionBarActivity {
         setContentView(R.layout.activity_main);
 
         TextView tvwHolaMundo =  (TextView) this.findViewById(R.id.tvwHolaMundo);
-        tvwHolaMundo.setText("Hola vicky :) hola ");
+        tvwHolaMundo.setText("Hola vicky :) listo ");
 
         int a = 0;
     }
